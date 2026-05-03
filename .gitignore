@@ -1,0 +1,26 @@
+# Скомпільовані Python-файли
+*.pyc
+__pycache__/
+
+# Віртуальні середовища
+venv/
+.env/
+.venv/
+myvenv/
+
+# IDE та редактори
+.idea/
+.vscode/
+
+# Логи та тимчасові файли
+*.log
+*.tmp
+*.swp
+
+# Системні файли
+.DS_Store
+Thumbs.db
+
+# Тестові та покриття
+.coverage
+.pytest_cache/
